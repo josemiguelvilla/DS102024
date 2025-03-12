@@ -168,3 +168,9 @@ Prof/
 *.DS_Store
 .DS_Store/
 Dataset/
+*.python-version
+housing_tuning/
+*.zip
+3-MachineLearning/7-DeepLearning/2-CNN/data/
+*.npz
+*.h5
